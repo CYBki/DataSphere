@@ -9,7 +9,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/yourusername/datasphere.svg)](https://img.shields.io/github/license/yourusername/datasphere.svg) [![PyPI pyversions](https://img.shields.io/pypi/pyversions/datasphere.svg)](https://pypi.org/project/datasphere/) [![PyPI version shields.io](https://img.shields.io/pypi/v/datasphere.svg)](https://pypi.org/project/datasphere/) <br>
 [![PyPI Downloads](https://static.pepy.tech/badge/datasphere/month)](https://pypi.org/project/datasphere/) [![Website](https://img.shields.io/badge/DataSphere-Website-blue)](https://datasphere.example.com)
-
 `🌟 DataSphere is open-source - Leave a star to support the project! 🌟`
 
 </div>
