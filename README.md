@@ -1,7 +1,7 @@
 <div align="center" style="text-align: center">
 
 <p style="text-align: center">
-  <img align="center" src="DataSphere/assets/logo.png" alt="DataSphere">
+  <img align="center" src="assets/logo.png" alt="DataSphere">
 </p>
 
 **[DataSphere](https://datasphere.example.com) - Full-Stack Data Platform for End-to-End Data Intelligence
