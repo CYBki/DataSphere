@@ -1,11 +1,11 @@
 <div align="center" style="text-align: center">
 
 <p style="text-align: center">
-  <img align="center" src="assets/logo.png" alt="DataSphere">
+  <img align="center" src="assets/logo.png" alt="DataSphere" width="450">
 </p>
 
-**[DataSphere](https://datasphere.example.com) - Full-Stack Data Platform for End-to-End Data Intelligence
-</br>Transforming Raw Data into Actionable Insights**
+**[DataSphere](https://datasphere.example.com) - Full-Stack Data Platform for End-to-End Data Intelligence  
+<br>Transforming Raw Data into Actionable Insights**
 
 [![GitHub license](https://img.shields.io/github/license/yourusername/datasphere.svg)](https://img.shields.io/github/license/yourusername/datasphere.svg) [![PyPI pyversions](https://img.shields.io/pypi/pyversions/datasphere.svg)](https://pypi.org/project/datasphere/) [![PyPI version shields.io](https://img.shields.io/pypi/v/datasphere.svg)](https://pypi.org/project/datasphere/) <br>
 [![PyPI Downloads](https://static.pepy.tech/badge/datasphere/month)](https://pypi.org/project/datasphere/) [![Website](https://img.shields.io/badge/DataSphere-Website-blue)](https://datasphere.example.com)
