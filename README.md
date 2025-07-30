@@ -1,9 +1,25 @@
 # DataSphere
-Full Stack Data Platform
-<p align="center">
-  <img src="path/to/logo.png" alt="DataSphere Logo" width="120"/>
-</p>
 
-<h1 align="center">DataSphere</h1>
+<img src="assets/logo.png" alt="DataSphere Logo" width="480" />
 
-<p align="center"><em>End-to-End Data Intelligence — From Raw Data to Insights</em></p>
+## Overview
+DataSphere is a full-stack data platform providing end-to-end data intelligence, from raw data to actionable insights.
+
+## Features
+- Comprehensive data processing
+- Scalable full-stack solutions
+- Seamless business integration
+
+## Getting Started
+1. Clone the repository: `git clone https://github.com/yourusername/datasphere.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the platform: `python main.py`
+
+## Contributing
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
+
+## License
+[MIT](LICENSE)
+
+## Contact
+For support, visit [DataSphere Website](#).
